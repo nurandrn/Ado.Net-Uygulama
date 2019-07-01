@@ -1,0 +1,11 @@
+C:\Users\iau\source\repos\AdoGiris\UrunlerListele\bin\Debug\UrunlerListele.exe.config
+C:\Users\iau\source\repos\AdoGiris\UrunlerListele\bin\Debug\UrunlerListele.exe
+C:\Users\iau\source\repos\AdoGiris\UrunlerListele\bin\Debug\UrunlerListele.pdb
+C:\Users\iau\source\repos\AdoGiris\UrunlerListele\obj\Debug\UrunlerListele.csprojAssemblyReference.cache
+C:\Users\iau\source\repos\AdoGiris\UrunlerListele\obj\Debug\UrunlerListele.Form1.resources
+C:\Users\iau\source\repos\AdoGiris\UrunlerListele\obj\Debug\UrunlerListele.Properties.Resources.resources
+C:\Users\iau\source\repos\AdoGiris\UrunlerListele\obj\Debug\UrunlerListele.csproj.GenerateResource.cache
+C:\Users\iau\source\repos\AdoGiris\UrunlerListele\obj\Debug\UrunlerListele.csproj.CoreCompileInputs.cache
+C:\Users\iau\source\repos\AdoGiris\UrunlerListele\obj\Debug\UrunlerListele.exe
+C:\Users\iau\source\repos\AdoGiris\UrunlerListele\obj\Debug\UrunlerListele.pdb
+C:\Users\iau\source\repos\AdoGiris\UrunlerListele\obj\Debug\UrunlerListele.Kategoriler.resources
